@@ -1,0 +1,14 @@
+/* #region sect5 */
+.collaborative-container {
+  display: flex;
+  margin-bottom: 150px;
+}
+.ul-div {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+}
+.div-Collaborative {
+}
+
+/* #endregion */

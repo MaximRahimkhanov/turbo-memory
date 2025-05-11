@@ -1,0 +1,47 @@
+/* #region Process sect6 */
+.process-contsiner {
+  margin-bottom: 100px;
+}
+.div-process {
+  margin: 0 auto;
+  max-width: 542px;
+  align-items: center;
+
+  width: 100%;
+  text-align: center;
+}
+.h2-prcess {
+  padding-bottom: 25px;
+}
+
+.ul-process {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 50px;
+}
+.li-process {
+  display: flex;
+  max-width: 408px;
+  width: 100%;
+  align-items: center;
+  gap: 20px;
+  padding-bottom: 26px;
+}
+.p-process {
+  border: solid 1px transparent;
+  border-radius: 20px;
+  fill: #fff;
+  box-shadow: 2px 2px 10px 0 rgba(23, 58, 86, 0.15);
+  padding: 0 18px;
+}
+.li-ends {
+  justify-content: end;
+}
+
+.button-process {
+  margin: 0 auto;
+}
+
+/* #endregion */

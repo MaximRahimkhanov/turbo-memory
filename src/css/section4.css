@@ -1,0 +1,40 @@
+/* #region Support sect4 */
+.section4-container {
+  display: flex;
+  margin-bottom: 100px;
+}
+.div-cust-support {
+  padding-top: 41px;
+}
+.h2-cust-support {
+  padding-bottom: 25px;
+}
+.p-cust-support {
+  padding-bottom: 30px;
+}
+.ul-cust-support {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+}
+.li-cust-support {
+  display: flex;
+  align-items: center;
+}
+.svg-cust-support {
+  border: 2.92px solid #fff;
+  border-radius: 14px;
+  width: 35px;
+  height: 35px;
+  background: #f03e3d;
+  padding: 8px;
+  fill: #fff;
+}
+.svg-orange {
+  background: #ff9900;
+}
+.svg-blue {
+  background: #4d8dff;
+}
+
+/* #endregion */
