@@ -1,0 +1,15 @@
+.container {
+  width: 1150px;
+  padding: 0 20px;
+  margin: 0 auto;
+}
+button {
+  display: block;
+  border-radius: 4px;
+  background: #02897a;
+  font-weight: 700;
+  font-size: 16px;
+  color: #fff;
+  border: transparent;
+  padding: 15px 30px;
+}
