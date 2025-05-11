@@ -1,0 +1,54 @@
+/* #region something sect7 */
+.something-container {
+  margin-bottom: 171px;
+}
+.p-something {
+  max-width: 465px;
+  padding-bottom: 40px;
+}
+.ul-something {
+  display: flex;
+  gap: 30px;
+  justify-content: space-between;
+}
+
+.img-something {
+  margin-bottom: 24px;
+}
+
+.li-something {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #dedede;
+  border-radius: 8px;
+  max-width: 350px;
+  width: 100%;
+
+  width: calc((100% - (2 * 30px)) / 3);
+}
+.h2-strategies {
+  font-size: 34px;
+  margin-bottom: 10px;
+}
+
+.h2-something {
+  display: flex;
+  line-height: 167%;
+  font-size: 24px;
+  padding-left: 27px;
+  padding-right: 27px;
+  width: 100%;
+}
+
+.p-li-something {
+  padding-left: 24px;
+  margin-bottom: 12px;
+}
+.span-something {
+  font-weight: 700;
+}
+.span-h2 {
+  color: #02897a;
+}
+
+/* #endregion */

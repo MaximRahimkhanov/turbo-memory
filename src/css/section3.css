@@ -1,0 +1,22 @@
+/* #region Managment sect3 */
+.section3-container {
+  display: flex;
+  margin-bottom: 100px;
+}
+.section3-ul {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 91px;
+}
+
+.h3-div {
+  padding-bottom: 8px;
+}
+.h2-div {
+  padding-bottom: 25px;
+}
+.p-div {
+  padding-bottom: 30px;
+}
+/* #endregion Managment sect3*/
